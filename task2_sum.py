@@ -3,3 +3,7 @@
 # Пример:
 # Ввод: 3, 5
 # Вывод: Сумма: 8
+a = int(input())
+b = int(input())
+c = a+b
+print (c)
