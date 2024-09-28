@@ -3,3 +3,8 @@
 # Пример:
 # Ввод: k = 2, b = 3, x = 5
 # Вывод: y = 13
+k=int(input())
+b=int(input())
+x=int(input())
+y= k*x + b
+print ("y =", y)

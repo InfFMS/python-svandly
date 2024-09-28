@@ -4,21 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="996803b3-a42b-422b-a19c-dcca21fe46d6" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+    <list default="true" id="1bbc22f1-067f-44d1-badf-465acfa5bea8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python-basics-assignment-1.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/task1_greeting.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/task2_sum.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python-svandly.iml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/task1_greeting.py" beforeDir="false" afterPath="$PROJECT_DIR$/task1_greeting.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task2_sum.py" beforeDir="false" afterPath="$PROJECT_DIR$/task2_sum.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task3_rectangle.py" beforeDir="false" afterPath="$PROJECT_DIR$/task3_rectangle.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task4_even_odd.py" beforeDir="false" afterPath="$PROJECT_DIR$/task4_even_odd.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/task5_reverse_number.py" beforeDir="false" afterPath="$PROJECT_DIR$/task5_reverse_number.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/task10_line_equation.py" beforeDir="false" afterPath="$PROJECT_DIR$/task10_line_equation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task6_arithmetic_progression.py" beforeDir="false" afterPath="$PROJECT_DIR$/task6_arithmetic_progression.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task7_calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/task7_calculator.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/task8_square_cube.py" beforeDir="false" afterPath="$PROJECT_DIR$/task8_square_cube.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/task9_division_remainder.py" beforeDir="false" afterPath="$PROJECT_DIR$/task9_division_remainder.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,22 +29,26 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
+  "associatedIndex": 0
 }]]></component>
-  <component name="ProjectId" id="2mYFzyx4CTEnGvCuk9jf1awU2Bo" />
+  <component name="ProjectId" id="2mgS1DH5O0vVOMzstZiJFfIPwS7" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Python.task3_rectangle.executor": "Run",
+    "Python.task10_line_equation.executor": "Debug",
+    "Python.task1_greeting.executor": "Run",
     "Python.task5_reverse_number.executor": "Run",
+    "Python.task6_arithmetic_progression.executor": "Run",
+    "Python.task7_calculator.executor": "Run",
     "Python.task8_square_cube.executor": "Run",
+    "Python.task9_division_remainder.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main"
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "C:/Users/l.egorova/Desktop/гит/python-svandly"
   }
 }]]></component>
   <component name="SharedIndexes">
@@ -60,11 +61,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="996803b3-a42b-422b-a19c-dcca21fe46d6" name="Changes" comment="" />
-      <created>1727245871191</created>
+      <changelist id="1bbc22f1-067f-44d1-badf-465acfa5bea8" name="Changes" comment="" />
+      <created>1727496509943</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1727245871191</updated>
+      <updated>1727496509943</updated>
     </task>
     <servers />
   </component>
